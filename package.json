@@ -16,7 +16,15 @@
     "testing",
     "fixtures"
   ],
-  "author": "",
+  "author": "AaryanTandel88",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaryanTandel88/NPM-package-Mock-Data-factory.git"
+  },
+  "homepage": "https://github.com/AaryanTandel88/NPM-package-Mock-Data-factory#readme",
+  "bugs": {
+    "url": "https://github.com/AaryanTandel88/NPM-package-Mock-Data-factory/issues"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
