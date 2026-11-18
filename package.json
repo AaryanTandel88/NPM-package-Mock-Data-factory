@@ -1,0 +1,29 @@
+{
+  "name": "schema-mock-data-factory",
+  "version": "1.0.0",
+  "description": "A lightweight, beginner-friendly mock data generator based on custom schemas.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "example": "node examples/example.js"
+  },
+  "keywords": [
+    "mock",
+    "data-generator",
+    "schema",
+    "mock-data",
+    "fake-data",
+    "testing",
+    "fixtures"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
